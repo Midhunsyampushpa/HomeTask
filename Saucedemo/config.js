@@ -1,0 +1,1 @@
+global.url = "https://www.saucedemo.com/";
